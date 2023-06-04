@@ -33,6 +33,7 @@
 ### 🛠 Инструменты и 💻 Технологии:
 
 <p align="left"> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" /></a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+  <img src="https://camo.githubusercontent.com/198d60235bc46de24b7fc85912b75bf06f406d277e5ce28607f11a6ec7a7059d/68747470733a2f2f646576656c6f7065722e6170706c652e636f6d2f6173736574732f656c656d656e74732f69636f6e732f73646b2d31362f73646b2d31362d313238783132385f32782e706e67" title="Xcode" alt="Xcode" width="40" height="40" /> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-plain.svg" title="Xcode" alt="Xcode" width="40" height="40" /> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sourcetree/sourcetree-original-wordmark.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
