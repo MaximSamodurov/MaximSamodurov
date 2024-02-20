@@ -2,11 +2,6 @@
 
 ---
 
-### :man_technologist: Обо мне:
-
-Я начинающий мобильный разработчик, самостоятельно изучаю разработку, имею опыт командной работы. Каждый день пишу код и практикуюсь!  
-На данный момент в поиске работы / стажировки
-
 - :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-maximSamodurov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/forcy_prod) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:trueforce.go@gmail.com)
 
 ---
